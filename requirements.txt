@@ -5,4 +5,4 @@ object_detection
 Pillow==10.1.0
 Requests==2.31.0
 tensorflow==2.10.1
-
+gunicorn
