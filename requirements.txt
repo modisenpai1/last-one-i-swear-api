@@ -1,7 +1,7 @@
 Flask==3.0.0
 matplotlib==3.7.3
 numpy==1.24.4
-object_detection==0.1
+object_detection
 Pillow==10.0.1
 Pillow==10.1.0
 Requests==2.31.0
